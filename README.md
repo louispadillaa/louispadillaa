@@ -1,6 +1,5 @@
 ![Mi logo](assets/foto.png)
-
-- I'm a software Engineering student   
+  
   
 
 <div align="center">  
